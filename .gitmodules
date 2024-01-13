@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/MCBerberov19/PM.Web-main.git
+[submodule "server"]
+	path = server
+	url = https://github.com/MCBerberov19/PM.API-main.git
