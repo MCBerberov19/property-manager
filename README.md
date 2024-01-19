@@ -46,7 +46,7 @@ An exceptional feature of the Property Manager is its integration with Custom Vi
 <h3><B>Cloning the repository:</B></h3>
 
 Pasting this line of code in **your favourite Terminal**:
-<pre>git clone https://github.com/MCBerberov19/property-manager.git</pre>
+<pre>git clone --recursive https://github.com/MCBerberov19/property-manager.git</pre>
 <p>You have successfully cloned the repository! 🥳</p>
 
 <hr>
